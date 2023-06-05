@@ -1,0 +1,9 @@
+address: https://test-stand.gb.ru
+sleep_time: 5
+browser: chrome
+wait: 3
+login: 'uk'
+password: 'c2431a9d20'
+title: post one
+description: this is my first post
+content: this is my first post in this platform
