@@ -1,5 +1,6 @@
 [
   "test_1.py::test_step1",
   "test_1.py::test_step2",
-  "test_1.py::test_step3"
+  "test_1.py::test_step3",
+  "test_1.py::test_step4"
 ]

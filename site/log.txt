@@ -1,0 +1,8 @@
+2023-06-08 14:40:57 INFO ====== WebDriver manager ======
+2023-06-08 14:40:57 INFO Driver [C:\Users\Татьяна\.wdm\drivers\chromedriver\win32\114.0.5735.90\chromedriver.exe] found in cache
+2023-06-08 14:40:59 INFO Test 4 starting
+2023-06-08 14:41:01 INFO Send "uk" to element
+2023-06-08 14:41:01 INFO Send "c2431a9d20" to element
+2023-06-08 14:41:01 INFO Click login button
+2023-06-08 14:41:01 INFO Click contact
+2023-06-08 14:41:04 INFO Click contact us button
