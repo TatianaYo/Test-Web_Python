@@ -7,5 +7,5 @@ def get(token):
     return listcont
 
 
-def test_3(create_post, text2):
-    assert text2 in get(create_post)
+def test_3(create_post):
+    assert get(create_post) == '0'

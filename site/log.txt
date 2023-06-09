@@ -1,8 +1,25 @@
-2023-06-08 14:40:57 INFO ====== WebDriver manager ======
-2023-06-08 14:40:57 INFO Driver [C:\Users\Татьяна\.wdm\drivers\chromedriver\win32\114.0.5735.90\chromedriver.exe] found in cache
-2023-06-08 14:40:59 INFO Test 4 starting
-2023-06-08 14:41:01 INFO Send "uk" to element
-2023-06-08 14:41:01 INFO Send "c2431a9d20" to element
-2023-06-08 14:41:01 INFO Click login button
-2023-06-08 14:41:01 INFO Click contact
-2023-06-08 14:41:04 INFO Click contact us button
+2023-06-09 18:47:44 INFO ====== WebDriver manager ======
+2023-06-09 18:47:46 INFO Driver [C:\Users\Татьяна\.wdm\drivers\chromedriver\win32\114.0.5735.90\chromedriver.exe] found in cache
+2023-06-09 18:47:47 INFO Test 1 starting
+2023-06-09 18:47:52 INFO Clicked button login button
+2023-06-09 18:47:54 INFO We find text 401 in field error label
+2023-06-09 18:48:00 INFO ====== WebDriver manager ======
+2023-06-09 18:48:01 INFO Driver [C:\Users\Татьяна\.wdm\drivers\chromedriver\win32\114.0.5735.90\chromedriver.exe] found in cache
+2023-06-09 18:48:03 INFO Test 2 starting
+2023-06-09 18:48:07 INFO Clicked button login button
+2023-06-09 18:48:09 INFO We find text Hello, uk in field username
+2023-06-09 18:48:15 INFO ====== WebDriver manager ======
+2023-06-09 18:48:16 INFO Driver [C:\Users\Татьяна\.wdm\drivers\chromedriver\win32\114.0.5735.90\chromedriver.exe] found in cache
+2023-06-09 18:48:18 INFO Test 3 starting
+2023-06-09 18:48:22 INFO Clicked button login button
+2023-06-09 18:48:25 INFO Clicked button create post button
+2023-06-09 18:48:29 INFO Clicked button save post button
+2023-06-09 18:48:31 INFO We find text post one in field title text
+2023-06-09 18:48:38 INFO ====== WebDriver manager ======
+2023-06-09 18:48:39 INFO Driver [C:\Users\Татьяна\.wdm\drivers\chromedriver\win32\114.0.5735.90\chromedriver.exe] found in cache
+2023-06-09 18:48:41 INFO Test 4 starting
+2023-06-09 18:48:45 INFO Clicked button login button
+2023-06-09 18:48:48 INFO Clicked click contact button
+2023-06-09 18:48:52 INFO Clicked button contact us button
+2023-06-09 18:48:56 INFO Get alert text
+2023-06-09 18:48:56 INFO Form successfully submitted
