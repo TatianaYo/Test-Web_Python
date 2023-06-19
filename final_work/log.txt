@@ -1,0 +1,16 @@
+2023-06-11 15:30:34 INFO ====== WebDriver manager ======
+2023-06-11 15:30:35 INFO Driver [/home/user/.wdm/drivers/chromedriver/linux64/114.0.5735.90/chromedriver] found in cache
+2023-06-11 15:30:38 INFO Test 1 starting
+2023-06-11 15:30:48 INFO Clicked button login button
+2023-06-11 15:30:54 INFO We find text Hello, uk in field username
+2023-06-11 15:30:55 INFO ====== WebDriver manager ======
+2023-06-11 15:30:55 INFO Driver [/home/user/.wdm/drivers/chromedriver/linux64/114.0.5735.90/chromedriver] found in cache
+2023-06-11 15:30:59 INFO Test 2 starting
+2023-06-11 15:31:08 INFO Clicked button login button
+2023-06-11 15:31:13 INFO Clicked click about button
+2023-06-11 15:31:18 INFO We find text About Page in field title about
+2023-06-11 15:31:19 INFO ====== WebDriver manager ======
+2023-06-11 15:31:20 INFO Driver [/home/user/.wdm/drivers/chromedriver/linux64/114.0.5735.90/chromedriver] found in cache
+2023-06-11 15:31:24 INFO Test 3 starting
+2023-06-11 15:31:34 INFO Clicked button login button
+2023-06-11 15:31:40 INFO Clicked click about button

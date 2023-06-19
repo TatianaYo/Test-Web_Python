@@ -1,0 +1,5 @@
+browser: chrome
+login: 'uk'
+password: 'c2431a9d20'
+sleep: 5
+title_about: About Page
